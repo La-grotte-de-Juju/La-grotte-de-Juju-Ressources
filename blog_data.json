@@ -1,10 +1,23 @@
 {
     "articles": [],
     "videos": [],
-    "announcements": [],
+    "announcements": [
+        {
+            "type": "announcement",
+            "title": "message avec texte",
+            "description": "message avec texte",
+            "published_date": "2025-08-18T20:49:19.548000+00:00",
+            "discord_message_id": "1407104097391476808",
+            "discord_channel_id": "1374069106570956961",
+            "author": "redfly",
+            "category": "message_general",
+            "attachments": [],
+            "links": []
+        }
+    ],
     "metadata": {
-        "last_updated": "2025-08-18T22:41:07.216520",
-        "total_entries": 0,
+        "last_updated": "2025-08-18T22:49:19.633405",
+        "total_entries": 1,
         "version": "1.0"
     }
 }
