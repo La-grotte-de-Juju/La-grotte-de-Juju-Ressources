@@ -1,52 +1,10 @@
 {
     "articles": [],
-    "videos": [
-        {
-            "type": "video",
-            "title": "Sans titre",
-            "description": "message avec une vidéo youtube",
-            "published_date": "2025-08-18T20:51:45.447000+00:00",
-            "discord_message_id": "1407104709336236184",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "video_externe",
-            "attachments": [],
-            "links": [
-                "https://youtu.be/FB9Gxs1SVDc"
-            ]
-        }
-    ],
-    "announcements": [
-        {
-            "type": "announcement",
-            "title": "message avec texte",
-            "description": "message avec texte",
-            "published_date": "2025-08-18T20:49:19.548000+00:00",
-            "discord_message_id": "1407104097391476808",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "message_general",
-            "attachments": [],
-            "links": []
-        },
-        {
-            "type": "announcement",
-            "title": "message avec image",
-            "description": "message avec image",
-            "published_date": "2025-08-18T20:49:36.795000+00:00",
-            "discord_message_id": "1407104169730379806",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "message_general",
-            "attachments": [
-                "https://cdn.discordapp.com/attachments/1374069106570956961/1407104169537704186/image.png?ex=68a4e360&is=68a391e0&hm=ff501784876c29140a71c97dad355494668c464fc3ca3ab9d7d3ca8a94a9df7f&"
-            ],
-            "links": []
-        }
-    ],
+    "videos": [],
+    "announcements": [],
     "metadata": {
-        "last_updated": "2025-08-18T22:51:45.689955",
-        "total_entries": 3,
+        "last_updated": "2025-08-18T23:03:00.153419",
+        "total_entries": 0,
         "version": "1.0"
     }
 }
