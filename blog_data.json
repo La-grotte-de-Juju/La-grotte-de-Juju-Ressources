@@ -1,6 +1,21 @@
 {
     "articles": [],
-    "videos": [],
+    "videos": [
+        {
+            "type": "video",
+            "title": "Sans titre",
+            "description": "message avec une vidéo youtube",
+            "published_date": "2025-08-18T20:51:45.447000+00:00",
+            "discord_message_id": "1407104709336236184",
+            "discord_channel_id": "1374069106570956961",
+            "author": "redfly",
+            "category": "video_externe",
+            "attachments": [],
+            "links": [
+                "https://youtu.be/FB9Gxs1SVDc"
+            ]
+        }
+    ],
     "announcements": [
         {
             "type": "announcement",
@@ -30,8 +45,8 @@
         }
     ],
     "metadata": {
-        "last_updated": "2025-08-18T22:49:36.920925",
-        "total_entries": 2,
+        "last_updated": "2025-08-18T22:51:45.689955",
+        "total_entries": 3,
         "version": "1.0"
     }
 }
