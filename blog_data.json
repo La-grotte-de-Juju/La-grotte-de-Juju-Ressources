@@ -1,18 +1,36 @@
 {
     "articles": [],
-    "videos": [],
-    "announcements": [
+    "videos": [
         {
-            "type": "announcement",
-            "title": "Sans titre",
+            "type": "video",
+            "title": "GRAVITY FALLS - T'as Cinq Minutes",
+            "description": "message avec une autre vidéo",
+            "video_url": "https://www.youtube.com/watch?v=l8D5Xzdr5BY",
+            "thumbnail_url": "https://i.ytimg.com/vi/l8D5Xzdr5BY/maxresdefault.jpg",
+            "video_id": "l8D5Xzdr5BY",
+            "channel": "La grotte de Juju",
+            "published_date": "2025-08-18T21:15:12.630000+00:00",
+            "discord_message_id": "1407110611489521806",
+            "discord_channel_id": "1374069106570956961",
+            "author": "redfly",
+            "category": "nouvelle_video"
+        },
+        {
+            "type": "video",
+            "title": "HONKAI: STAR RAIL- T'as Cinq Minutes",
             "description": "message avec une vidéo youtube",
+            "video_url": "https://www.youtube.com/watch?v=FB9Gxs1SVDc",
+            "thumbnail_url": "https://i.ytimg.com/vi/FB9Gxs1SVDc/maxresdefault.jpg",
+            "video_id": "FB9Gxs1SVDc",
+            "channel": "La grotte de Juju",
             "published_date": "2025-08-18T20:51:45.447000+00:00",
             "discord_message_id": "1407104709336236184",
             "discord_channel_id": "1374069106570956961",
             "author": "redfly",
-            "category": "annonce",
-            "attachments": []
-        },
+            "category": "nouvelle_video"
+        }
+    ],
+    "announcements": [
         {
             "type": "announcement",
             "title": "message avec image",
@@ -36,21 +54,10 @@
             "author": "redfly",
             "category": "annonce",
             "attachments": []
-        },
-        {
-            "type": "announcement",
-            "title": "message avec une autre vidéo https://www.youtube.com/watch?v=l8D5Xzdr5BY&t=40s",
-            "description": "message avec une autre vidéo",
-            "published_date": "2025-08-18T21:15:12.630000+00:00",
-            "discord_message_id": "1407110611489521806",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "annonce",
-            "attachments": []
         }
     ],
     "metadata": {
-        "last_updated": "2025-08-18T23:15:12.880872",
+        "last_updated": "2025-08-18T23:21:53.822181",
         "total_entries": 4,
         "version": "1.0"
     }
