@@ -13,11 +13,25 @@
             "category": "message_general",
             "attachments": [],
             "links": []
+        },
+        {
+            "type": "announcement",
+            "title": "message avec image",
+            "description": "message avec image",
+            "published_date": "2025-08-18T20:49:36.795000+00:00",
+            "discord_message_id": "1407104169730379806",
+            "discord_channel_id": "1374069106570956961",
+            "author": "redfly",
+            "category": "message_general",
+            "attachments": [
+                "https://cdn.discordapp.com/attachments/1374069106570956961/1407104169537704186/image.png?ex=68a4e360&is=68a391e0&hm=ff501784876c29140a71c97dad355494668c464fc3ca3ab9d7d3ca8a94a9df7f&"
+            ],
+            "links": []
         }
     ],
     "metadata": {
-        "last_updated": "2025-08-18T22:49:19.633405",
-        "total_entries": 1,
+        "last_updated": "2025-08-18T22:49:36.920925",
+        "total_entries": 2,
         "version": "1.0"
     }
 }
