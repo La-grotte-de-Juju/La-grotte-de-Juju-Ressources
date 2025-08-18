@@ -36,11 +36,22 @@
             "author": "redfly",
             "category": "annonce",
             "attachments": []
+        },
+        {
+            "type": "announcement",
+            "title": "message avec une autre vidéo https://www.youtube.com/watch?v=l8D5Xzdr5BY&t=40s",
+            "description": "message avec une autre vidéo",
+            "published_date": "2025-08-18T21:15:12.630000+00:00",
+            "discord_message_id": "1407110611489521806",
+            "discord_channel_id": "1374069106570956961",
+            "author": "redfly",
+            "category": "annonce",
+            "attachments": []
         }
     ],
     "metadata": {
-        "last_updated": "2025-08-18T23:14:11.328530",
-        "total_entries": 3,
+        "last_updated": "2025-08-18T23:15:12.880872",
+        "total_entries": 4,
         "version": "1.0"
     }
 }
