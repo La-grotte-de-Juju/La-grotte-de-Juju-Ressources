@@ -1,86 +1,10 @@
 {
     "articles": [],
-    "videos": [
-        {
-            "type": "video",
-            "title": "GRAVITY FALLS - T'as Cinq Minutes",
-            "description": "message avec une autre vidéo",
-            "video_url": "https://www.youtube.com/watch?v=l8D5Xzdr5BY",
-            "thumbnail_url": "https://i.ytimg.com/vi/l8D5Xzdr5BY/maxresdefault.jpg",
-            "video_id": "l8D5Xzdr5BY",
-            "channel": "La grotte de Juju",
-            "published_date": "2025-08-18T21:15:12.630000+00:00",
-            "discord_message_id": "1407110611489521806",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "nouvelle_video"
-        },
-        {
-            "type": "video",
-            "title": "HONKAI: STAR RAIL- T'as Cinq Minutes",
-            "description": "message avec une vidéo youtube",
-            "video_url": "https://www.youtube.com/watch?v=FB9Gxs1SVDc",
-            "thumbnail_url": "https://i.ytimg.com/vi/FB9Gxs1SVDc/maxresdefault.jpg",
-            "video_id": "FB9Gxs1SVDc",
-            "channel": "La grotte de Juju",
-            "published_date": "2025-08-18T20:51:45.447000+00:00",
-            "discord_message_id": "1407104709336236184",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "nouvelle_video"
-        }
-    ],
-    "announcements": [
-        {
-            "type": "announcement",
-            "title": "nouveau message avec des liens genre pleins https://la-grotte-de-juju.github.io/bd https://worldview",
-            "description": "nouveau message avec des liens genre pleins",
-            "published_date": "2025-08-18T21:49:33.704000+00:00",
-            "discord_message_id": "1407119256260448336",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "annonce",
-            "attachments": [
-                "https://la-grotte-de-juju.github.io/bd",
-                "https://worldview.earthdata.nasa.gov/?l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_NOAA21_CorrectedReflectance_TrueColor,VIIRS_NOAA20_CorrectedReflectance_TrueColor,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2025-03-13-T13%3A53%3A30Z",
-                "https://zty.pe"
-            ],
-            "links": [
-                "https://la-grotte-de-juju.github.io/bd",
-                "https://worldview.earthdata.nasa.gov/?l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_NOAA21_CorrectedReflectance_TrueColor,VIIRS_NOAA20_CorrectedReflectance_TrueColor,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor,MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2025-03-13-T13%3A53%3A30Z",
-                "https://zty.pe"
-            ]
-        },
-        {
-            "type": "announcement",
-            "title": "message avec image",
-            "description": "message avec image",
-            "published_date": "2025-08-18T20:49:36.795000+00:00",
-            "discord_message_id": "1407104169730379806",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "annonce",
-            "attachments": [
-                "https://cdn.discordapp.com/attachments/1374069106570956961/1407104169537704186/image.png?ex=68a4e360&is=68a391e0&hm=ff501784876c29140a71c97dad355494668c464fc3ca3ab9d7d3ca8a94a9df7f&"
-            ],
-            "links": []
-        },
-        {
-            "type": "announcement",
-            "title": "message avec texte",
-            "description": "message avec texte",
-            "published_date": "2025-08-18T20:49:19.548000+00:00",
-            "discord_message_id": "1407104097391476808",
-            "discord_channel_id": "1374069106570956961",
-            "author": "redfly",
-            "category": "annonce",
-            "attachments": [],
-            "links": []
-        }
-    ],
+    "videos": [],
+    "announcements": [],
     "metadata": {
-        "last_updated": "2025-08-18T23:58:32.287948",
-        "total_entries": 5,
+        "last_updated": "2025-08-19T21:43:17.619995",
+        "total_entries": 0,
         "version": "1.0"
     }
 }
